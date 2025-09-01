@@ -1,0 +1,1726 @@
+# Copyright (C) 2021 Ultimatube
+# This file is distributed under the same license as the Ultimatube package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimatube\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+
+#: 404.php:7
+msgid "Page not found."
+msgstr ""
+
+#: 404.php:8
+msgid "Oops, the page you requested doesn't exist."
+msgstr ""
+
+#: 404.php:8, 404.php:8
+msgid "Return to Home"
+msgstr ""
+
+#: author.php:11, admin/options.php:686
+msgid "videos"
+msgstr ""
+
+#: comments.php:12
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:20, comments.php:37
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:22, comments.php:39
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:23, comments.php:40
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:73, comments.php:55
+msgid "Name"
+msgstr ""
+
+#: comments.php:75, comments.php:57, template-my-profile.php:113, admin/options.php:881, inc/ajax-login-register.php:25
+msgid "Email"
+msgstr ""
+
+#: comments.php:77, comments.php:59, template-my-profile.php:117
+msgid "Website"
+msgstr ""
+
+#: comments.php:80, comments.php:62
+msgid "Comment"
+msgstr ""
+
+#: comments.php:85, comments.php:67
+msgid "Comments"
+msgstr ""
+
+#: functions.php:129
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:130
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:169, admin/options.php:670
+msgid "Homepage"
+msgstr ""
+
+#: functions.php:171
+msgid "Display widgets on your homepage."
+msgstr ""
+
+#: functions.php:180
+msgid "Under the video"
+msgstr ""
+
+#: functions.php:182
+msgid "Display widgets under the video in your single video pages."
+msgstr ""
+
+#: functions.php:191, admin/options.php:194
+msgid "Footer"
+msgstr ""
+
+#: functions.php:193
+msgid "Display widgets in your footer."
+msgstr ""
+
+#: functions.php:241
+msgid "Read more"
+msgstr ""
+
+#: functions.php:242, admin/options.php:40, admin/options.php:56, admin/options.php:72, admin/options.php:88, admin/options.php:104, admin/options.php:120, admin/options.php:136, admin/options.php:152
+msgid "Close"
+msgstr ""
+
+#: functions.php:293
+msgid "Data is being imported please be patient..."
+msgstr ""
+
+#: functions.php:294
+msgid "Video submit page created."
+msgstr ""
+
+#: functions.php:295
+msgid "Have fun!"
+msgstr ""
+
+#: functions.php:296
+msgid "Profile page created."
+msgstr ""
+
+#: functions.php:297
+msgid "Blog page created."
+msgstr ""
+
+#: functions.php:298
+msgid "Categories page created."
+msgstr ""
+
+#: functions.php:299
+msgid "Tags page created."
+msgstr ""
+
+#: functions.php:300
+msgid "Actors page created."
+msgstr ""
+
+#: functions.php:301
+msgid "Menu created."
+msgstr ""
+
+#: functions.php:302
+msgid "Widgets created."
+msgstr ""
+
+#: functions.php:355, functions.php:370, template-parts/content-aside.php:6, template-parts/content-filters.php:13, template-parts/content-filters.php:7
+msgid "Newest"
+msgstr ""
+
+#: functions.php:358
+msgid "Most Viewed"
+msgstr ""
+
+#: functions.php:361, template-parts/content-aside.php:9, template-parts/content-filters.php:16, template-parts/content-filters.php:10
+msgid "Longest"
+msgstr ""
+
+#: functions.php:364, template-parts/content-aside.php:7, template-parts/content-filters.php:14, template-parts/content-filters.php:8
+msgid "Best"
+msgstr ""
+
+#: functions.php:367, template-parts/content-aside.php:10, template-parts/content-filters.php:17, template-parts/content-filters.php:11
+msgid "Random"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:74, inc/ajax-login-register.php:63, inc/ajax-login-register.php:95, template-parts/content-top-bar.php:16
+msgid "Login"
+msgstr ""
+
+#: header.php:75
+msgid "Register"
+msgstr ""
+
+#: header.php:62
+msgid "Submit a Video"
+msgstr ""
+
+#: header.php:65
+msgid "My Channel"
+msgstr ""
+
+#: header.php:68
+msgid "My Profile"
+msgstr ""
+
+#: header.php:70
+msgid "Logout"
+msgstr ""
+
+#: search.php:8, template-parts/content-none.php:9
+msgid "%s: Video Search Results"
+msgstr ""
+
+#: search.php:8
+msgid "videos found"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post.
+#: single-blog.php:17, template-parts/content-standard.php:15
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: single-blog.php:22, template-parts/content-page.php:10, template-parts/content-standard.php:20
+msgid "Pages:"
+msgstr ""
+
+#: template-actors.php:3, template-video-submit.php:134, admin/options.php:625, admin/options.php:674, admin/theme-activation.php:66, admin/import/wpst-importer.php:336
+msgid "Actors"
+msgstr ""
+
+#: template-actors.php:91, template-categories.php:86, template-parts/loop-photo.php:32, template-parts/loop-video.php:40
+msgid "No image"
+msgstr ""
+
+#: template-categories.php:3, admin/options.php:528, admin/options.php:672, admin/theme-activation.php:52, admin/import/wpst-importer.php:322, admin/import/wpst-importer.php:395
+msgid "Categories"
+msgstr ""
+
+#: template-full-width.php:2
+msgid "Full Width"
+msgstr ""
+
+#: template-my-profile.php:3
+msgid "Profile"
+msgstr ""
+
+#: template-my-profile.php:20
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+
+#: template-my-profile.php:30
+msgid "This email is already used by another user. Try a different one."
+msgstr ""
+
+#: template-my-profile.php:28
+msgid "The Email you entered is not valid. Please try again."
+msgstr ""
+
+#: template-my-profile.php:147, template-video-submit.php:310
+msgid "You must be logged to submit a video. Please <a href=\"%s\">login</a> or <a href=\"%s\">register</a> a new account."
+msgstr ""
+
+#: template-my-profile.php:67
+msgid "Your profile has been updated."
+msgstr ""
+
+#: template-my-profile.php:71
+msgid "First Name"
+msgstr ""
+
+#: template-my-profile.php:75
+msgid "Last Name"
+msgstr ""
+
+#: template-my-profile.php:79
+msgid "Display Name as"
+msgstr ""
+
+#: template-my-profile.php:121, inc/ajax-login-register.php:29, inc/ajax-login-register.php:58
+msgid "Password"
+msgstr ""
+
+#: template-my-profile.php:125
+msgid "Repeat Password"
+msgstr ""
+
+#: template-my-profile.php:129
+msgid "Biographical Information"
+msgstr ""
+
+#: template-my-profile.php:139
+msgid "Update your profile"
+msgstr ""
+
+#: template-tags.php:3, template-video-submit.php:130, admin/options.php:576, admin/options.php:673, admin/theme-activation.php:59, admin/import/wpst-importer.php:329
+msgid "Tags"
+msgstr ""
+
+#: template-video-submit.php:73, template-video-submit.php:40
+msgid "Thanks for submitting a video! Your submission is being moderated."
+msgstr ""
+
+#: template-video-submit.php:47, inc/ajax-login-register.php:187
+msgid "Please click on the reCAPTCHA box."
+msgstr ""
+
+#: template-video-submit.php:43, inc/ajax-login-register.php:184
+msgid "Captcha verification failed, please try again."
+msgstr ""
+
+#: template-video-submit.php:314
+msgid "Video submission is disabled."
+msgstr ""
+
+#: template-video-submit.php:101, admin/options.php:698, inc/widget-video.php:149
+msgid "Title"
+msgstr ""
+
+#: template-video-submit.php:102
+msgid "Enter video title"
+msgstr ""
+
+#: template-video-submit.php:105, admin/options.php:705
+msgid "Description"
+msgstr ""
+
+#: template-video-submit.php:106
+msgid "Enter video description"
+msgstr ""
+
+#: template-video-submit.php:109, admin/metabox.php:29
+msgid "Video URL"
+msgstr ""
+
+#: template-video-submit.php:110
+msgid "Enter MP4 video URL (eg. https://www.yourvideo.mp4)"
+msgstr ""
+
+#: template-video-submit.php:113
+msgid "Iframe / Embed code"
+msgstr ""
+
+#: template-video-submit.php:114
+msgid "Enter iframe / embed code"
+msgstr ""
+
+#: template-video-submit.php:117
+msgid "Thumbnail URL"
+msgstr ""
+
+#: template-video-submit.php:118
+msgid "Enter image URL (eg. https://www.yourimage.jpg)"
+msgstr ""
+
+#: template-video-submit.php:121, inc/widget-video.php:175
+msgid "Category"
+msgstr ""
+
+#: template-video-submit.php:130, template-video-submit.php:134
+msgid "separated by commas"
+msgstr ""
+
+#: template-video-submit.php:137, admin/metabox.php:112
+msgid "Duration"
+msgstr ""
+
+#: template-video-submit.php:151
+msgid "hour"
+msgstr ""
+
+#: template-video-submit.php:167
+msgid "min"
+msgstr ""
+
+#: template-video-submit.php:232
+msgid "sec"
+msgstr ""
+
+#: template-video-submit.php:307
+msgid "Submit a video"
+msgstr ""
+
+#: admin/admin-columns.php:5
+msgid "Featured"
+msgstr ""
+
+#: admin/metabox.php:6
+msgid "Video information"
+msgstr ""
+
+#: admin/metabox.php:19
+msgid "HD video"
+msgstr ""
+
+#: admin/metabox.php:22
+msgid "Will display a \"HD\" label over the thumb."
+msgstr ""
+
+#: admin/metabox.php:31
+msgid "Paste here the video URL or upload a video file (mp4, webm)."
+msgstr ""
+
+#: admin/metabox.php:42
+msgid "240p"
+msgstr ""
+
+#: admin/metabox.php:50
+msgid "360p"
+msgstr ""
+
+#: admin/metabox.php:58
+msgid "480p"
+msgstr ""
+
+#: admin/metabox.php:66
+msgid "720p"
+msgstr ""
+
+#: admin/metabox.php:74
+msgid "1080p"
+msgstr ""
+
+#: admin/metabox.php:82
+msgid "4k"
+msgstr ""
+
+#: admin/metabox.php:94
+msgid "Video embed code"
+msgstr ""
+
+#: admin/metabox.php:96
+msgid "Paste here the embed code (eg. Youtube iframe). It will automatically display the video player in the front of your site."
+msgstr ""
+
+#: admin/metabox.php:103
+msgid "Video shortcode"
+msgstr ""
+
+#: admin/metabox.php:105
+msgid "Paste here the video shortcode (eg. [TM plugin=\"https://drive.google.com/...\"]). It will automatically display the video player in the front of your site."
+msgstr ""
+
+#: admin/metabox.php:122
+msgid "Views"
+msgstr ""
+
+#: admin/metabox.php:142
+msgid "Likes"
+msgstr ""
+
+#: admin/metabox.php:162
+msgid "Dislikes"
+msgstr ""
+
+#: admin/metabox.php:182
+msgid "Video trailer URL"
+msgstr ""
+
+#: admin/metabox.php:184
+msgid "Paste here the video trailer URL or upload a video file (mp4 or webm). It will be used as video preview on mouse hover."
+msgstr ""
+
+#: admin/metabox.php:195
+msgid "Main thumbnail"
+msgstr ""
+
+#: admin/metabox.php:197
+msgid "Paste here the main thumb URL or upload an image file. If there isn't a featured image, this image will be used as main thumb."
+msgstr ""
+
+#: admin/metabox.php:213
+msgid "Thumbnails"
+msgstr ""
+
+#: admin/metabox.php:215
+msgid "Used for thumbnails rotation."
+msgstr ""
+
+#: admin/metabox.php:223
+msgid "Tracking URL"
+msgstr ""
+
+#: admin/metabox.php:225
+msgid "Paste here the tracking URL you want to display as link under the video in the front of your site (http://...)."
+msgstr ""
+
+#: admin/metabox.php:233
+msgid "Advertising under the video player"
+msgstr ""
+
+#: admin/metabox.php:235
+msgid "Paste here the code of your banner, it will be displayed under the video player."
+msgstr ""
+
+#: admin/options.php:36, admin/options.php:1377
+msgid "Create Video Submit page"
+msgstr ""
+
+#: admin/options.php:38
+msgid "This action will create a \"Submit a Video\" page in your admin."
+msgstr ""
+
+#: admin/options.php:41, admin/options.php:57, admin/options.php:73, admin/options.php:89, admin/options.php:105, admin/options.php:121, admin/options.php:137, admin/options.php:153
+msgid "Confirm"
+msgstr ""
+
+#: admin/options.php:52
+msgid "Create Profile page"
+msgstr ""
+
+#: admin/options.php:54
+msgid "This action will create a \"My profile\" page in your admin."
+msgstr ""
+
+#: admin/options.php:68, admin/options.php:1391
+msgid "Create Blog page"
+msgstr ""
+
+#: admin/options.php:70
+msgid "This action will create a \"Blog\" page in your admin."
+msgstr ""
+
+#: admin/options.php:84, admin/options.php:1356
+msgid "Create Categories page"
+msgstr ""
+
+#: admin/options.php:86
+msgid "This action will create an illustrated categories page in your admin."
+msgstr ""
+
+#: admin/options.php:100, admin/options.php:1363
+msgid "Create Tags page"
+msgstr ""
+
+#: admin/options.php:102
+msgid "This action will create a tags list page in your admin."
+msgstr ""
+
+#: admin/options.php:116, admin/options.php:1370
+msgid "Create Actors page"
+msgstr ""
+
+#: admin/options.php:118
+msgid "This action will create an actors list page in your admin."
+msgstr ""
+
+#: admin/options.php:132, admin/options.php:1401
+msgid "Create Menu"
+msgstr ""
+
+#: admin/options.php:134
+msgid "This action will create a menu in your admin."
+msgstr ""
+
+#: admin/options.php:148
+msgid "Create Widgets"
+msgstr ""
+
+#: admin/options.php:150
+msgid "This action will integrate video block widgets in your admin."
+msgstr ""
+
+#: admin/options.php:172, admin/options.php:173
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options.php:185
+msgid "Main tab"
+msgstr ""
+
+#: admin/options.php:188, admin/options.php:1425
+msgid "General"
+msgstr ""
+
+#: admin/options.php:189
+msgid "Visual options"
+msgstr ""
+
+#: admin/options.php:190
+msgid "Logo & Favicon"
+msgstr ""
+
+#: admin/options.php:191
+msgid "Left\tSidebar"
+msgstr ""
+
+#: admin/options.php:192
+msgid "Content"
+msgstr ""
+
+#: admin/options.php:195
+msgid "Membership"
+msgstr ""
+
+#: admin/options.php:196, admin/options.php:1426, inc/widget-video.php:201
+msgid "Advertising"
+msgstr ""
+
+#: admin/options.php:197
+msgid "Code"
+msgstr ""
+
+#: admin/options.php:198
+msgid "Tools"
+msgstr ""
+
+#: admin/options.php:199
+msgid "Mobile"
+msgstr ""
+
+#: admin/options.php:209, admin/options.php:1432
+msgid "Number of videos per page"
+msgstr ""
+
+#: admin/options.php:214, admin/options.php:1437
+msgid "videos / page"
+msgstr ""
+
+#: admin/options.php:220
+msgid "Show"
+msgstr ""
+
+#: admin/options.php:224, inc/widget-video.php:161, admin/import/wpst-importer.php:402
+msgid "Latest videos"
+msgstr ""
+
+#: admin/options.php:225, inc/widget-video.php:162, admin/import/wpst-importer.php:387
+msgid "Most viewed videos"
+msgstr ""
+
+#: admin/options.php:226, inc/widget-video.php:163, admin/import/wpst-importer.php:377
+msgid "Longest videos"
+msgstr ""
+
+#: admin/options.php:227, inc/widget-video.php:164
+msgid "Popular videos"
+msgstr ""
+
+#: admin/options.php:228, inc/widget-video.php:165
+msgid "Random videos"
+msgstr ""
+
+#: admin/options.php:232
+msgid "Aspect ratios of thumbnails "
+msgstr ""
+
+#: admin/options.php:235
+msgid "Choose the aspect ratios for all thumbnails."
+msgstr ""
+
+#: admin/options.php:243
+msgid "Main thumbnail quality"
+msgstr ""
+
+#: admin/options.php:246
+msgid "Basic = High compression, Normal = Medium compression, Fine = Low compression"
+msgstr ""
+
+#: admin/options.php:255
+msgid "Enable thumbnails rotation"
+msgstr ""
+
+#: admin/options.php:258
+msgid "Enable thumbnails rotation to see a preview of the video on mouseover."
+msgstr ""
+
+#: admin/options.php:262
+msgid "Enable views system"
+msgstr ""
+
+#: admin/options.php:265
+msgid "Display number of views on thumbnails, under the video player and add a \"Most viewed videos\" filter."
+msgstr ""
+
+#: admin/options.php:269
+msgid "Enable duration system"
+msgstr ""
+
+#: admin/options.php:272
+msgid "Display duration on thumbnails, and add a \"Longest videos\" filter."
+msgstr ""
+
+#: admin/options.php:276
+msgid "Enable rating system"
+msgstr ""
+
+#: admin/options.php:279
+msgid "Display a rating bar with percentage under thumbnails, a rating system under the video player, and add a \"Popular videos\" filter."
+msgstr ""
+
+#: admin/options.php:283
+msgid "Enable comments"
+msgstr ""
+
+#: admin/options.php:286
+msgid "Display a comments section in your single video pages."
+msgstr ""
+
+#: admin/options.php:297
+msgid "Main color"
+msgstr ""
+
+#: admin/options.php:303
+msgid "Custom background"
+msgstr ""
+
+#: admin/options.php:309
+msgid "Background settings"
+msgstr ""
+
+#: admin/options.php:311, inc/actor-image.php:34, inc/actor-image.php:63, inc/category-image.php:34, inc/category-image.php:63
+msgid "Image"
+msgstr ""
+
+#: admin/options.php:320
+msgid "Color"
+msgstr ""
+
+#: admin/options.php:327
+msgid "Repeat"
+msgstr ""
+
+#: admin/options.php:338
+msgid "Attachment"
+msgstr ""
+
+#: admin/options.php:358
+msgid "Use logo image"
+msgstr ""
+
+#: admin/options.php:364
+msgid "Icon logo settings"
+msgstr ""
+
+#: admin/options.php:366
+msgid "Icon logo"
+msgstr ""
+
+#: admin/options.php:378
+msgid "Text logo settings"
+msgstr ""
+
+#: admin/options.php:381
+msgid "Text logo"
+msgstr ""
+
+#: admin/options.php:387
+msgid "Font family"
+msgstr ""
+
+#: admin/options.php:402
+msgid "Font size"
+msgstr ""
+
+#: admin/options.php:413
+msgid "Image logo file"
+msgstr ""
+
+#: admin/options.php:416
+msgid "Image logo"
+msgstr ""
+
+#: admin/options.php:425
+msgid "Image logo settings"
+msgstr ""
+
+#: admin/options.php:427
+msgid "Max width"
+msgstr ""
+
+#: admin/options.php:440
+msgid "Max height"
+msgstr ""
+
+#: admin/options.php:453
+msgid "Margin top"
+msgstr ""
+
+#: admin/options.php:460
+msgid "Margin left"
+msgstr ""
+
+#: admin/options.php:469
+msgid "Show text slogan"
+msgstr ""
+
+#: admin/options.php:475, admin/options.php:478
+msgid "Text slogan"
+msgstr ""
+
+#: admin/options.php:486
+msgid "Favicon"
+msgstr ""
+
+#: admin/options.php:501
+msgid "Display left sidebar"
+msgstr ""
+
+#: admin/options.php:506
+msgid "Left sidebar settings"
+msgstr ""
+
+#: admin/options.php:508
+msgid "Show filters"
+msgstr ""
+
+#: admin/options.php:516, admin/options.php:781
+msgid "Show categories"
+msgstr ""
+
+#: admin/options.php:525
+msgid "Categories title"
+msgstr ""
+
+#: admin/options.php:531
+msgid "Categories number"
+msgstr ""
+
+#: admin/options.php:536
+msgid "Number of categories displayed in the sidebar."
+msgstr ""
+
+#: admin/options.php:547
+msgid "\"All categories\" link"
+msgstr ""
+
+#: admin/options.php:551, admin/options.php:599, admin/options.php:648
+msgid "For example: %s"
+msgstr ""
+
+#: admin/options.php:555
+msgid "\"All categories\" link text"
+msgstr ""
+
+#: admin/options.php:558
+msgid "All categories"
+msgstr ""
+
+#: admin/options.php:559
+msgid "The anchor of the \"All categories\" link"
+msgstr ""
+
+#: admin/options.php:564, admin/options.php:795
+msgid "Show tags"
+msgstr ""
+
+#: admin/options.php:573
+msgid "Tags title"
+msgstr ""
+
+#: admin/options.php:579
+msgid "Tags number"
+msgstr ""
+
+#: admin/options.php:584
+msgid "Number of tags displayed in the sidebar."
+msgstr ""
+
+#: admin/options.php:595
+msgid "\"All tags\" link"
+msgstr ""
+
+#: admin/options.php:603
+msgid "\"All tags\" link text"
+msgstr ""
+
+#: admin/options.php:606
+msgid "All tags"
+msgstr ""
+
+#: admin/options.php:607
+msgid "The anchor of the \"All tags\" link"
+msgstr ""
+
+#: admin/options.php:613, admin/options.php:788
+msgid "Show actors"
+msgstr ""
+
+#: admin/options.php:622
+msgid "Actors title"
+msgstr ""
+
+#: admin/options.php:628
+msgid "Actors number"
+msgstr ""
+
+#: admin/options.php:633
+msgid "Number of actors displayed in the sidebar."
+msgstr ""
+
+#: admin/options.php:644
+msgid "\"All actors\" link"
+msgstr ""
+
+#: admin/options.php:652
+msgid "\"All actors\" link text"
+msgstr ""
+
+#: admin/options.php:655
+msgid "All actors"
+msgstr ""
+
+#: admin/options.php:656
+msgid "The anchor of the \"All actors\" link"
+msgstr ""
+
+#: admin/options.php:667
+msgid "Content tabs"
+msgstr ""
+
+#: admin/options.php:671
+msgid "Video single post"
+msgstr ""
+
+#: admin/options.php:681
+msgid "Number of videos"
+msgstr ""
+
+#: admin/options.php:690
+msgid "Display video listing advertising"
+msgstr ""
+
+#: admin/options.php:695
+msgid "Display or not the advertising block on the homepage."
+msgstr ""
+
+#: admin/options.php:712
+msgid "Title and description position"
+msgstr ""
+
+#: admin/options.php:715
+msgid "Choose if you want to display the title and description at the top or the bottom of your homepage."
+msgstr ""
+
+#: admin/options.php:724
+msgid "Video blocks"
+msgstr ""
+
+#: admin/options.php:726
+msgid "<a href=\"%s\">Click here</a> to use video blocks above the video listing."
+msgstr ""
+
+#: admin/options.php:732
+msgid "Display tracking button"
+msgstr ""
+
+#: admin/options.php:737
+msgid "Display a button with your tracking link under the video player."
+msgstr ""
+
+#: admin/options.php:740
+msgid "Tracking button settings"
+msgstr ""
+
+#: admin/options.php:743
+msgid "Icon button"
+msgstr ""
+
+#: admin/options.php:756
+msgid "Tracking button link"
+msgstr ""
+
+#: admin/options.php:759
+msgid "Use the same link for every tracking buttons."
+msgstr ""
+
+#: admin/options.php:764
+msgid "Tracking button text"
+msgstr ""
+
+#: admin/options.php:768
+msgid "Change the text of the tracking button."
+msgstr ""
+
+#: admin/options.php:772
+msgid "Video about"
+msgstr ""
+
+#: admin/options.php:774
+msgid "Show description"
+msgstr ""
+
+#: admin/options.php:803
+msgid "Show more settings"
+msgstr ""
+
+#: admin/options.php:805
+msgid "Truncate description"
+msgstr ""
+
+#: admin/options.php:810
+msgid "Display a show more link under the description."
+msgstr ""
+
+#: admin/options.php:815
+msgid "Video share"
+msgstr ""
+
+#: admin/options.php:819
+msgid "Display a \"Share\" tab with social networks sharing buttons."
+msgstr ""
+
+#: admin/options.php:823
+msgid "Video share settings"
+msgstr ""
+
+#: admin/options.php:825, admin/options.php:1006
+msgid "Facebook"
+msgstr ""
+
+#: admin/options.php:832, admin/options.php:1013
+msgid "Twitter"
+msgstr ""
+
+#: admin/options.php:839, admin/options.php:1020
+msgid "Google Plus"
+msgstr ""
+
+#: admin/options.php:846
+msgid "Linkedin"
+msgstr ""
+
+#: admin/options.php:853, admin/options.php:1034
+msgid "Tumblr"
+msgstr ""
+
+#: admin/options.php:860
+msgid "Reddit"
+msgstr ""
+
+#: admin/options.php:867
+msgid "Odnoklassniki"
+msgstr ""
+
+#: admin/options.php:874
+msgid "VK"
+msgstr ""
+
+#: admin/options.php:889
+msgid "Display related videos"
+msgstr ""
+
+#: admin/options.php:895
+msgid "Related videos settings"
+msgstr ""
+
+#: admin/options.php:898
+msgid "Number of related videos"
+msgstr ""
+
+#: admin/options.php:911
+msgid "Number of categories per page"
+msgstr ""
+
+#: admin/options.php:925
+msgid "Category description position"
+msgstr ""
+
+#: admin/options.php:928
+msgid "Choose if you want to display the category description at the top or the bottom of category page."
+msgstr ""
+
+#: admin/options.php:938
+msgid "Tag description position"
+msgstr ""
+
+#: admin/options.php:941
+msgid "Choose if you want to display the tag description at the top or the bottom of tag page."
+msgstr ""
+
+#: admin/options.php:952
+msgid "Number of actors per page"
+msgstr ""
+
+#: admin/options.php:975
+msgid "Footer columns"
+msgstr ""
+
+#: admin/options.php:978
+msgid "<a href=\"%s\">Click here</a> to manage your footer with widgets."
+msgstr ""
+
+#: admin/options.php:986
+msgid "column"
+msgstr ""
+
+#: admin/options.php:987, admin/options.php:988, admin/options.php:989
+msgid "columns"
+msgstr ""
+
+#: admin/options.php:997
+msgid "Show social profiles"
+msgstr ""
+
+#: admin/options.php:1003
+msgid "Your social profiles"
+msgstr ""
+
+#: admin/options.php:1027
+msgid "Youtube"
+msgstr ""
+
+#: admin/options.php:1041
+msgid "Instagram"
+msgstr ""
+
+#: admin/options.php:1049
+msgid "Copyright bar"
+msgstr ""
+
+#: admin/options.php:1053
+msgid "Turn on to display the copyright bar."
+msgstr ""
+
+#: admin/options.php:1055
+msgid "Copyright settings"
+msgstr ""
+
+#: admin/options.php:1057
+msgid "Copyright text"
+msgstr ""
+
+#: admin/options.php:1061
+msgid "All rights reserved. Powered by"
+msgstr ""
+
+#: admin/options.php:1062
+msgid "Enter the text that displays in the copyright bar. HTML markup can be used."
+msgstr ""
+
+#: admin/options.php:1072
+msgid "Enable membership"
+msgstr ""
+
+#: admin/options.php:1075
+msgid "Enable membership system with login/register feature, user profile, video submit, etc."
+msgstr ""
+
+#: admin/options.php:1079
+msgid "Enable video submission"
+msgstr ""
+
+#: admin/options.php:1085
+msgid "Video submit settings"
+msgstr ""
+
+#: admin/options.php:1087
+msgid "Title required"
+msgstr ""
+
+#: admin/options.php:1094
+msgid "Description required"
+msgstr ""
+
+#: admin/options.php:1101
+msgid "Video URL required"
+msgstr ""
+
+#: admin/options.php:1108
+msgid "Embed required"
+msgstr ""
+
+#: admin/options.php:1115
+msgid "Thumbnail URL required"
+msgstr ""
+
+#: admin/options.php:1122
+msgid "Tags required"
+msgstr ""
+
+#: admin/options.php:1129
+msgid "Actors required"
+msgstr ""
+
+#: admin/options.php:1136
+msgid "Duration required"
+msgstr ""
+
+#: admin/options.php:1144
+msgid "Membership links"
+msgstr ""
+
+#: admin/options.php:1146
+msgid "Display \"Submit a Video\" link"
+msgstr ""
+
+#: admin/options.php:1153
+msgid "Display \"My Profile\" link"
+msgstr ""
+
+#: admin/options.php:1160
+msgid "Display \"My Channel\" link"
+msgstr ""
+
+#: admin/options.php:1169
+msgid "Enable reCaptcha"
+msgstr ""
+
+#: admin/options.php:1172
+msgid "Enable a Google reCaptcha security code on registration and submit video page. You can get your reCAPTCHA keys here: <a href=\"%s\" target=\"_blank\">Google reCaptcha Keys</a>"
+msgstr ""
+
+#: admin/options.php:1175
+msgid "reCaptcha settings"
+msgstr ""
+
+#: admin/options.php:1177
+msgid "Site key"
+msgstr ""
+
+#: admin/options.php:1182
+msgid "Secret key"
+msgstr ""
+
+#: admin/options.php:1188
+msgid "Display admin bar for logged in users"
+msgstr ""
+
+#: admin/options.php:1191
+msgid "Display the WP admin bar when a user is logged on your site and let him go to the admin."
+msgstr ""
+
+#: admin/options.php:1203
+msgid "Video listing"
+msgstr ""
+
+#: admin/options.php:1214
+msgid "Sidebar ad zone 1"
+msgstr ""
+
+#: admin/options.php:1225
+msgid "Sidebar ad zone 2"
+msgstr ""
+
+#: admin/options.php:1236
+msgid "Sidebar ad zone 3"
+msgstr ""
+
+#: admin/options.php:1247
+msgid "Before play ad zone 1"
+msgstr ""
+
+#: admin/options.php:1258
+msgid "Before play ad zone 2"
+msgstr ""
+
+#: admin/options.php:1269, admin/options.php:1494
+msgid "Under video player ad zone"
+msgstr ""
+
+#: admin/options.php:1280, admin/options.php:1516
+msgid "Footer ad zone"
+msgstr ""
+
+#: admin/options.php:1296
+msgid "Code tabs"
+msgstr ""
+
+#: admin/options.php:1307
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/options.php:1309
+msgid "Paste here your Google Analytics following code."
+msgstr ""
+
+#: admin/options.php:1313
+msgid "Other scripts"
+msgstr ""
+
+#: admin/options.php:1315
+msgid "Paste here your other script codes (eg popup script)."
+msgstr ""
+
+#: admin/options.php:1323
+msgid "Meta verification"
+msgstr ""
+
+#: admin/options.php:1325
+msgid "Paste here your meta codes (for example to verify your domain from a third party like Google Suite, etc.)"
+msgstr ""
+
+#: admin/options.php:1352
+msgid "Pages"
+msgstr ""
+
+#: admin/options.php:1357
+msgid "Display illustrated categories like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr ""
+
+#: admin/options.php:1364
+msgid "Display a tags list like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr ""
+
+#: admin/options.php:1371
+msgid "Display an actors list like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr ""
+
+#: admin/options.php:1378
+msgid "Allow users to submit videos like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr ""
+
+#: admin/options.php:1384
+msgid "Create My Profile page"
+msgstr ""
+
+#: admin/options.php:1385
+msgid "Allow users to modify their profile like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr ""
+
+#: admin/options.php:1392
+msgid "Create separate blog page like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr ""
+
+#: admin/options.php:1399
+msgid "Menu"
+msgstr ""
+
+#: admin/options.php:1402
+msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr ""
+
+#: admin/options.php:1408
+msgid "Widgets"
+msgstr ""
+
+#: admin/options.php:1411
+msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr ""
+
+#: admin/options.php:1422
+msgid "Mobile tabs"
+msgstr ""
+
+#: admin/options.php:1443
+msgid "Number of videos per row"
+msgstr ""
+
+#: admin/options.php:1448
+msgid "videos / row"
+msgstr ""
+
+#: admin/options.php:1459
+msgid "Disable homepage widgets"
+msgstr ""
+
+#: admin/options.php:1464
+msgid "Do not display the homepage widgets on mobile devices."
+msgstr ""
+
+#: admin/options.php:1472
+msgid "Header ad zone"
+msgstr ""
+
+#: admin/options.php:1505
+msgid "Above related videos ad zone"
+msgstr ""
+
+#: admin/theme-activation.php:47, admin/import/wpst-importer.php:317
+msgid "Home"
+msgstr ""
+
+#: inc/actor-image.php:38, inc/actor-image.php:74, inc/category-image.php:38, inc/category-image.php:74
+msgid "Add Image"
+msgstr ""
+
+#: inc/actor-image.php:39, inc/actor-image.php:75, inc/category-image.php:39, inc/category-image.php:75
+msgid "Remove Image"
+msgstr ""
+
+#: inc/actors.php:6
+msgctxt "wpst"
+msgid "Video Actors"
+msgstr ""
+
+#: inc/actors.php:7
+msgctxt "wpst"
+msgid "Video Actor"
+msgstr ""
+
+#: inc/actors.php:8
+msgid "Search Video Actors"
+msgstr ""
+
+#: inc/actors.php:9
+msgid "Popular Video Actors"
+msgstr ""
+
+#: inc/actors.php:10
+msgid "All Video Actors"
+msgstr ""
+
+#: inc/actors.php:13
+msgid "Edit Video Actor"
+msgstr ""
+
+#: inc/actors.php:14
+msgid "Update Video Actor"
+msgstr ""
+
+#: inc/actors.php:15
+msgid "Add New Video Actor"
+msgstr ""
+
+#: inc/actors.php:16
+msgid "New Video Actor Name"
+msgstr ""
+
+#: inc/actors.php:17
+msgid "Separate Video Actors with commas"
+msgstr ""
+
+#: inc/actors.php:18
+msgid "Add or remove Video Actors"
+msgstr ""
+
+#: inc/actors.php:19
+msgid "Choose from the most used Video Actors"
+msgstr ""
+
+#: inc/actors.php:20
+msgid "Video Actors"
+msgstr ""
+
+#: inc/ajax-login-register.php:43
+msgid "Registration is disabled."
+msgstr ""
+
+#: inc/ajax-login-register.php:16
+msgid "Join %s"
+msgstr ""
+
+#: inc/ajax-login-register.php:21, inc/ajax-login-register.php:54
+msgid "Username"
+msgstr ""
+
+#: inc/ajax-login-register.php:37, inc/ajax-login-register.php:63, inc/ajax-login-register.php:82, inc/ajax-login-register.php:90
+msgid "Loading..."
+msgstr ""
+
+#: inc/ajax-login-register.php:37, inc/ajax-login-register.php:94
+msgid "Sign up"
+msgstr ""
+
+#: inc/ajax-login-register.php:49
+msgid "Login to %s"
+msgstr ""
+
+#: inc/ajax-login-register.php:63
+msgid "Lost Password?"
+msgstr ""
+
+#: inc/ajax-login-register.php:72
+msgid "Reset Password"
+msgstr ""
+
+#: inc/ajax-login-register.php:73
+msgid "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email."
+msgstr ""
+
+#: inc/ajax-login-register.php:77
+msgid "Username or E-mail"
+msgstr ""
+
+#: inc/ajax-login-register.php:82
+msgid "Get new password"
+msgstr ""
+
+#: inc/ajax-login-register.php:94
+msgid "Don't have an account?"
+msgstr ""
+
+#: inc/ajax-login-register.php:95
+msgid "Already have an account?"
+msgstr ""
+
+#: inc/ajax-login-register.php:135
+msgid "Login successful, reloading page..."
+msgstr ""
+
+#: inc/ajax-login-register.php:127, inc/ajax-login-register.php:163, inc/ajax-login-register.php:229
+msgid "Please fill all form fields"
+msgstr ""
+
+#: inc/ajax-login-register.php:122, inc/ajax-login-register.php:157, inc/ajax-login-register.php:224
+msgid "Session token has expired, please reload the page and try again"
+msgstr ""
+
+#: inc/ajax-login-register.php:208, inc/ajax-login-register.php:182
+msgid "Registration complete. You can now login."
+msgstr ""
+
+#: inc/ajax-login-register.php:248
+msgid "Password Reset. Please check your email."
+msgstr ""
+
+#: inc/ajax-login-register.php:268
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: inc/ajax-login-register.php:264
+msgid "Please enter a username or e-mail address."
+msgstr ""
+
+#: inc/ajax-login-register.php:280
+msgid "Invalid username or e-mail."
+msgstr ""
+
+#: inc/ajax-login-register.php:292
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: inc/ajax-login-register.php:310
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: inc/ajax-login-register.php:312
+msgid "Username: %s"
+msgstr ""
+
+#: inc/ajax-login-register.php:313
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: inc/ajax-login-register.php:314
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: inc/ajax-login-register.php:323
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: inc/ajax-login-register.php:328
+msgid "The e-mail could not be sent.<br />Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/blog-functions.php:20
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/init.php:8
+msgid "This Theme needs WP-Script Core to be installed and activated."
+msgstr ""
+
+#: inc/init.php:13
+msgid "Please purchase a Ultimatube plan - https://www.wp-script.com/adult-wordpress-themes/ultimatube/"
+msgstr ""
+
+#: inc/pagination.php:30
+msgid "First"
+msgstr ""
+
+#: inc/pagination.php:33
+msgid "Previous"
+msgstr ""
+
+#: inc/pagination.php:45
+msgid "Next"
+msgstr ""
+
+#: inc/pagination.php:48
+msgid "Last"
+msgstr ""
+
+#: inc/post-like.php:35, inc/post-like.php:23
+msgid "I like this"
+msgstr ""
+
+#: inc/post-like.php:43, inc/post-like.php:31
+msgid "I dislike this"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/video-functions.php:148
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/widget-video.php:10
+msgid "Display blocks of videos sorted by views, date, popularity, category, etc."
+msgstr ""
+
+#: inc/widget-video.php:116
+msgid "More videos"
+msgstr ""
+
+#: inc/widget-video.php:153
+msgid "Total videos"
+msgstr ""
+
+#: inc/widget-video.php:157
+msgid "Display"
+msgstr ""
+
+#: inc/widget-video.php:166
+msgid "Related videos"
+msgstr ""
+
+#: inc/widget-video.php:178
+msgid "All"
+msgstr ""
+
+#: template-parts/content-aside.php:8, template-parts/content-filters.php:15, template-parts/content-filters.php:9
+msgid "Most viewed"
+msgstr ""
+
+#: template-parts/content-aside.php:48
+msgid "No tags"
+msgstr ""
+
+#: template-parts/content-aside.php:72
+msgid "No actors"
+msgstr ""
+
+#: template-parts/content-header-search.php:15, template-parts/content-header-search.php:15, template-parts/content-header-search.php:15
+msgid "Search..."
+msgstr ""
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-none.php:9
+msgid "video found"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:4
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:21
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-photos.php:12
+msgid "Loading photos"
+msgstr ""
+
+#: template-parts/content-related-photos.php:22
+msgid "Related photos"
+msgstr ""
+
+#: template-parts/content-related.php:26
+msgid "Show more related videos"
+msgstr ""
+
+#: template-parts/content-top-bar.php:17
+msgid "Sign Up"
+msgstr ""
+
+#: template-parts/content-video-player.php:270
+msgid "Close Advertising"
+msgstr ""
+
+#: template-parts/content-video-player.php:317
+msgid "Download complete video now!"
+msgstr ""
+
+#: template-parts/content-video-player.php:332, template-parts/content-video-player.php:339
+msgid "Share"
+msgstr ""
+
+#: template-parts/content-video-player.php:345
+msgid "Copy the link"
+msgstr ""
+
+#: template-parts/loop-blog.php:16
+msgid "in"
+msgstr ""
+
+#: template-parts/loop-video.php:43, template-parts/loop-video.php:23
+msgid "HD"
+msgstr ""
+
+#: tgmpa/config.php:41
+msgid "Install Required Plugins"
+msgstr ""
+
+#: tgmpa/config.php:42
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: tgmpa/config.php:44
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: tgmpa/config.php:46
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: tgmpa/config.php:47
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: tgmpa/config.php:49
+msgid "WP-Script products requires the following plugin: %1$s."
+msgid_plural "WP-Script products requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: tgmpa/config.php:55
+msgid "WP-Script products recommends the following plugin: %1$s."
+msgid_plural "TWP-Script products recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: tgmpa/config.php:61
+msgid "The following WP-Script product needs to be updated to its latest version to ensure maximum compatibility with this plugin: %1$s."
+msgid_plural "The following WP-Script products need to be updated to their latest version to ensure maximum compatibility with this plugin: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/import/wpst-importer.php:367
+msgid "Videos being watched"
+msgstr ""
